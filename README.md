@@ -245,7 +245,6 @@ Este projeto é de **uso livre** para fins pessoais e comerciais.
 <!--  SUBSTITUA O CAMINHO ABAIXO PELO CAMINHO DA SUA LOGO      -->
 <!-- ========================================================= -->
 
-<br/>
-<img src="./logo_pamela.jpeg" width="80" alt="Estúdio Reis Unhas" />
+
 
 </div>
