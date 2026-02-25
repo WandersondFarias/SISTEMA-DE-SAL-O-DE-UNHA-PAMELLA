@@ -239,9 +239,6 @@ Este projeto é de **uso livre** para fins pessoais e comerciais.
   </a>
 </p>
 
-<p align="center">
-  <img src= https://wandersondfarias.github.io/SISTEMA-DE-SAL-O-DE-UNHA-PAMELLA/"">
-</p>
 
 
 
