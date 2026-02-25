@@ -240,7 +240,7 @@ Este projeto é de **uso livre** para fins pessoais e comerciais.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvido%20por-Wanderson%20de%20Farias-blue?style=for-the-badge">
+  <img src= https://wandersondfarias.github.io/SISTEMA-DE-SAL-O-DE-UNHA-PAMELLA/"">
 </p>
 
 <p align="center">
