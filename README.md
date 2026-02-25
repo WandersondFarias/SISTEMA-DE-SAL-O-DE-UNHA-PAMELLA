@@ -37,7 +37,7 @@
 
 ## 📋 Sobre o Projeto
 
-O **Sistema de Agendamento do Estúdio Reis Unhas** é uma solução completa, elegante e **100% offline** desenvolvida exclusivamente para **Pamela Reis** — Uberaba, MG.
+O **Sistema de Agendamento do Estúdio Reis Unhas** é uma solução completa, elegante e **100% offline** desenvolvida exclusivamente para **Pamella Reis** — Uberaba, MG.
 
 Tudo funciona em **um único arquivo HTML**, sem necessidade de servidor, banco de dados ou internet após o primeiro carregamento. Os dados são salvos diretamente no navegador do dispositivo.
 
@@ -187,7 +187,7 @@ Localize `:root {` no CSS e modifique as variáveis:
 
 | | |
 |---|---|
-| 👤 **Responsável** | Pamela Reis |
+| 👤 **Responsável** | Pamella Reis |
 | 📍 **Localização** | Uberaba — MG, Brasil |
 | 📱 **Telefone** | [(34) 99792-9612](tel:+5534997929612) |
 | 💬 **WhatsApp** | [Clique para conversar](https://wa.me/5534997929612) |
