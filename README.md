@@ -25,8 +25,8 @@
 <!--  COLE O LINK DO SEU SISTEMA AQUI QUANDO TIVER PUBLICADO   -->
 <!-- ========================================================= -->
 
-<a href="SEU_LINK_AQUI" target="_blank">
-  <img src="https://wandersondfarias.github.io/SISTEMA-DE-SAL-O-DE-UNHA-PAMELLA/" />
+<a href="https://wandersondfarias.github.io/SISTEMA-DE-SAL-O-DE-UNHA-PAMELLA/" target="_blank">
+  <img src="#" />
 </a>
 
 <br/><br/>
