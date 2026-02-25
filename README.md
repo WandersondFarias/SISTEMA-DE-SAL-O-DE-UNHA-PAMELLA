@@ -124,7 +124,7 @@ O sistema já estará pronto para uso imediatamente, sem instalação!
 ### Alterar Informações de Contato
 Abra o arquivo `index.html` em um editor de texto e localize:
 ```html
-<span class="contact-pill">👤 Pamela Reis</span>
+<span class="contact-pill">👤 Pamella Reis</span>
 <a href="tel:+5534997929612">(34) 99792-9612</a>
 <a href="https://wa.me/5534997929612">WhatsApp</a>
 ```
