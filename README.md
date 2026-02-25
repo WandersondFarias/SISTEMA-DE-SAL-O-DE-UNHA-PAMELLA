@@ -243,15 +243,7 @@ Este projeto é de **uso livre** para fins pessoais e comerciais.
   <img src= https://wandersondfarias.github.io/SISTEMA-DE-SAL-O-DE-UNHA-PAMELLA/"">
 </p>
 
-<p align="center">
-  <a href="https://github.com/wandersondfarias">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=flat&logo=github">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/wandersonfariaswf/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin">
-  </a>
-</p>
+
 
 <hr>
 
