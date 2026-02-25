@@ -230,7 +230,7 @@ Este projeto é de **uso livre** para fins pessoais e comerciais.
 
 
 <p align="center">
-  <img src="./LOGO CALHAS SANTO EXPEDITO.jpg" width="120" />
+  <img src="./logo pamela.jpeg" width="120" />
 </p>
 
 <p align="center">
